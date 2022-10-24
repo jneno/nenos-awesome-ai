@@ -1,4 +1,4 @@
-# Neno's Awesome AI List
+# Neno's Awesome Generative AI List
 nenos-awesome-ai - A curated list of AI resources with special focus on Generative AI
 
 - Articles
@@ -36,6 +36,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 
 - Research Papers
 	- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+	- [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
 	- [Language Models are Few Shot Learners](https://arxiv.org/abs/2005.14165)
 	- [Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
 	- [Out of One, Many: Using Language Models to Simulate Human Samples](https://arxiv.org/abs/2209.06899)
@@ -43,10 +44,12 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Using Large Language Models to Simulate Multiple Humans](https://arxiv.org/abs/2208.10264)
 
 - Sound Processing
+	- [Jukebox, OpenAI](https://openai.com/blog/jukebox/)
 	- [Whisper, OpenAI](https://openai.com/blog/whisper/)
 
 - Video Processing
 	- [Lumalabs](https://lumalabs.ai/)
+	- [Runway](https://runwayml.com/)
 
 - Forums
 	- [Reddit/r/gpt3](https://www.reddit.com/r/gpt3/)
