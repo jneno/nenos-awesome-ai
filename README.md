@@ -30,7 +30,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 - Natural Language Processing(NLP)
   - Tools and APIs
 	- [GPT-3 API, OpenAI](https://openai.com/api/)
-	- [Description](url)
+	- [summarize.tech](https://www.summarize.tech/)
 
 - Research Papers
 	- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
