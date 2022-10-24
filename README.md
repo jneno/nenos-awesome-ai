@@ -1,7 +1,6 @@
 # Neno's Awesome AI List
 nenos-awesome-ai - A curated list of AI resources with special focus on Generative AI
 
-
 - Articles
 
 - Blogs about AI
@@ -31,6 +30,9 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
   - Tools and APIs
 	- [GPT-3 API, OpenAI](https://openai.com/api/)
 	- [summarize.tech](https://www.summarize.tech/)
+	
+- Podcasts
+	- [Lex Fridman Podcast](https://lexfridman.com/podcast/)
 
 - Research Papers
 	- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
