@@ -26,8 +26,6 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [MidJourney](https://www.midjourney.com/home/)
 	- [Stability AI Stable Diffusion SDK](https://github.com/Stability-AI/stability-sdk)
 	- [Stability AI DreamStudio](https://beta.dreamstudio.ai/))
-	- 
-
 
 - Natural Language Processing(NLP)
   - Tools and APIs
@@ -37,12 +35,16 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 - Research Papers
 	- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 	- [Language Models are Few Shot Learners](https://arxiv.org/abs/2005.14165)
+	- [Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
 	- [Out of One, Many: Using Language Models to Simulate Human Samples](https://arxiv.org/abs/2209.06899)
 	- [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
 	- [Using Large Language Models to Simulate Multiple Humans](https://arxiv.org/abs/2208.10264)
 
 - Sound Processing
 	- [Whisper, OpenAI](https://openai.com/blog/whisper/)
+
+- Video Processing
+	- [Lumalabs](https://lumalabs.ai/)
 
 - Forums
 	- [Reddit/r/gpt3](https://www.reddit.com/r/gpt3/)
