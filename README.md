@@ -6,6 +6,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Deep generative models could offer the most promising developments in AI](https://venturebeat.com/datadecisionmakers/deep-generative-models-could-offer-the-most-promising-developments-in-ai/)
 	- [Do As I Can, Not As I Say](https://say-can.github.io/)
 	- [Generative AI Models Explained](https://www.altexsoft.com/blog/generative-ai/)
+	- [Memory-assisted prompt editing to improve GPT-3 after deployment](https://arxiv.org/abs/2201.06009)
 	- [Text is the Universal Interface](https://scale.com/blog/text-universal-interface)
 	- [The End of Programming](https://levelup.gitconnected.com/the-end-of-programming-6e3f7ff0d8b4)
 	- [The intertwined quest for understanding biological intelligence and creating artificial intelligence](https://hai.stanford.edu/news/intertwined-quest-understanding-biological-intelligence-and-creating-artificial-intelligence)
