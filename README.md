@@ -2,13 +2,16 @@
 nenos-awesome-ai - A curated list of AI resources with special focus on Generative AI
 
 - Articles
+	- [Deep generative models could offer the most promising developments in AI](https://venturebeat.com/datadecisionmakers/deep-generative-models-could-offer-the-most-promising-developments-in-ai/)
 	- [Do As I Can, Not As I Say](https://say-can.github.io/)
 	- [Generative AI Models Explained](https://www.altexsoft.com/blog/generative-ai/)
 	- [Text is the Universal Interface](https://scale.com/blog/text-universal-interface)
 	- [The intertwined quest for understanding biological intelligence and creating artificial intelligence](https://hai.stanford.edu/news/intertwined-quest-understanding-biological-intelligence-and-creating-artificial-intelligence)
+	- [Why AI code optimisation will be a game-changer](https://www.information-age.com/why-ai-code-optimisation-will-be-game-changer-123498458/)
 	- [Why generative AI will take over the world of art, and will render copyright irrelevant](https://walledculture.org/why-generative-ai-will-take-over-the-world-of-art-and-will-render-copyright-irrelevant/)
 
 - Blogs about AI
+	- [AI Exchange Community](https://exchange.scale.com/)
 	- [AI Weirdness](https://www.aiweirdness.com/)
 	- [Ben's Bites](https://bensbites.beehiiv.com/)
 	- [Future History](https://danieljeffries.substack.com/)
@@ -42,6 +45,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 - Image Processing
 	- [Dall-E 2, OpenAI](https://openai.com/dall-e-2/)
 	- [MidJourney](https://www.midjourney.com/home/)
+	- [Parti](https://parti.research.google/)
 	- [Stability AI Stable Diffusion SDK](https://github.com/Stability-AI/stability-sdk)
 	- [Stability AI DreamStudio](https://beta.dreamstudio.ai/))
 
