@@ -67,6 +67,8 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
 	- [SELF-PROGRAMMING ARTIFICIAL INTELLIGENCE USING CODE-GENERATING LANGUAGE MODELS](https://openreview.net/forum?id=SKat5ZX5RET)
 	- [STEEX: Steering Counterfactual Explanations with Semantics](https://arxiv.org/abs/2111.09094)
+	- [State-of-the-art generalisation research in NLP: a taxonomy and review](https://arxiv.org/abs/2210.03050)
+	- [Understanding HTML with Large Language Models](https://openreview.net/pdf?id=GVMwL15UrZO)
 	- [Using Large Language Models to Simulate Multiple Humans](https://arxiv.org/abs/2208.10264)
 
 - Sound Processing
