@@ -5,16 +5,19 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Do As I Can, Not As I Say](https://say-can.github.io/)
 	- [Generative AI Models Explained](https://www.altexsoft.com/blog/generative-ai/)
 	- [Text is the Universal Interface](https://scale.com/blog/text-universal-interface)
+	- [The intertwined quest for understanding biological intelligence and creating artificial intelligence](https://hai.stanford.edu/news/intertwined-quest-understanding-biological-intelligence-and-creating-artificial-intelligence)
 	- [Why generative AI will take over the world of art, and will render copyright irrelevant](https://walledculture.org/why-generative-ai-will-take-over-the-world-of-art-and-will-render-copyright-irrelevant/)
 
 - Blogs about AI
 	- [AI Weirdness](https://www.aiweirdness.com/)
 	- [Ben's Bites](https://bensbites.beehiiv.com/)
+	- [Future History](https://danieljeffries.substack.com/)
 	- [Ghost in the Garden](https://ghostinthe.garden/)
 	- [Import AI](https://jack-clark.net/)
 	- [Jakub M. Tomczak](https://jmtomczak.github.io/#blog)
 	- [Mihail Eric](https://www.mihaileric.com/blog/)
 	- [the decoder](https://the-decoder.com/)
+	- [Unimatrix Zero - Building the Metaverse](https://unimatrixz.com/)
 
 - Books
 	- [Deep Generative Modeling](https://link.springer.com/book/10.1007/978-3-030-93158-2)
