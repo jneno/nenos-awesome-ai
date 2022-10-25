@@ -44,6 +44,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 
 - Image Processing
 	- [Dall-E 2, OpenAI](https://openai.com/dall-e-2/)
+	- [Designer](https://designer.microsoft.com/)
 	- [MidJourney](https://www.midjourney.com/home/)
 	- [Parti](https://parti.research.google/)
 	- [Stability AI Stable Diffusion SDK](https://github.com/Stability-AI/stability-sdk)
