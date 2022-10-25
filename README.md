@@ -2,6 +2,7 @@
 nenos-awesome-ai - A curated list of AI resources with special focus on Generative AI
 
 - Articles
+	- [Learning to Perform Complex Tasks through Compositional Fine-Tuning of Language Models](https://arxiv.org/abs/2210.12607)
 	- [Deep generative models could offer the most promising developments in AI](https://venturebeat.com/datadecisionmakers/deep-generative-models-could-offer-the-most-promising-developments-in-ai/)
 	- [Do As I Can, Not As I Say](https://say-can.github.io/)
 	- [Generative AI Models Explained](https://www.altexsoft.com/blog/generative-ai/)
