@@ -6,6 +6,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Do As I Can, Not As I Say](https://say-can.github.io/)
 	- [Generative AI Models Explained](https://www.altexsoft.com/blog/generative-ai/)
 	- [Text is the Universal Interface](https://scale.com/blog/text-universal-interface)
+	- [The End of Programming](https://levelup.gitconnected.com/the-end-of-programming-6e3f7ff0d8b4)
 	- [The intertwined quest for understanding biological intelligence and creating artificial intelligence](https://hai.stanford.edu/news/intertwined-quest-understanding-biological-intelligence-and-creating-artificial-intelligence)
 	- [Why AI code optimisation will be a game-changer](https://www.information-age.com/why-ai-code-optimisation-will-be-game-changer-123498458/)
 	- [Why generative AI will take over the world of art, and will render copyright irrelevant](https://walledculture.org/why-generative-ai-will-take-over-the-world-of-art-and-will-render-copyright-irrelevant/)
