@@ -56,6 +56,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 
 - Natural Language Processing(NLP)
   - Tools and APIs
+  	- [Gmail GPT-3 Plugin](https://github.com/danimelchor/gpt3-email)
 	- [GPT-3 API, OpenAI](https://openai.com/api/)
 	- [summarize.tech](https://www.summarize.tech/)
 	
