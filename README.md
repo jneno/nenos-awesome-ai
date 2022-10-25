@@ -78,6 +78,10 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Whisper, OpenAI](https://openai.com/blog/whisper/)
 	- [Writing Music with Generative Tools](https://k-devices.com/2022/07/writing-music-with-generative-tools/)
 
+- Twitter accounts that Tweet about AI
+	- [@elronbandel](https://twitter.com/ElronBandel)
+	- [@YT7263](https://twitter.com/YT7263)
+
 - Video & Animation
 	- [Lumalabs](https://lumalabs.ai/)
 	- [Meta AI](https://ai.facebook.com/)
