@@ -8,12 +8,16 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Why generative AI will take over the world of art, and will render copyright irrelevant](https://walledculture.org/why-generative-ai-will-take-over-the-world-of-art-and-will-render-copyright-irrelevant/)
 
 - Blogs about AI
+	- [AI Weirdness](https://www.aiweirdness.com/)
 	- [Ben's Bites](https://bensbites.beehiiv.com/)
 	- [Ghost in the Garden](https://ghostinthe.garden/)
 	- [Import AI](https://jack-clark.net/)
+	- [Jakub M. Tomczak](https://jmtomczak.github.io/#blog)
+	- [Mihail Eric](https://www.mihaileric.com/blog/)
 	- [the decoder](https://the-decoder.com/)
 
 - Books
+	- [Deep Generative Modeling](https://link.springer.com/book/10.1007/978-3-030-93158-2)
 	- [Exploring GPT-3: An unofficial first look at the general-purpose language processing API from OpenAI](https://smile.amazon.com/Exploring-GPT-3-unofficial-general-purpose-processing/dp/1800563191/)
 	- [Exploring GPT3](https://www.oreilly.com/library/view/exploring-gpt-3/9781800563193/)
 	- [Transformers for Natural Language Processing](https://smile.amazon.com/Transformers-Natural-Language-Processing-architectures/dp/1803247339/)
@@ -26,6 +30,11 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Jasper](https://www.jasper.ai)
 	- [mem](https://get.mem.ai/)
 	- [Writesonic](https://writesonic.com)
+
+- Forums
+	- [OpenAI Forum](https://community.openai.com/)
+	- [Reddit/r/gpt3](https://www.reddit.com/r/gpt3/)
+	- [Reddit/r/artificial](https://www.reddit.com/r/artificial/)
 
 - Image Processing
 	- [Dall-E 2, OpenAI](https://openai.com/dall-e-2/)
@@ -55,13 +64,10 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 - Sound Processing
 	- [Jukebox, OpenAI](https://openai.com/blog/jukebox/)
 	- [Whisper, OpenAI](https://openai.com/blog/whisper/)
+	- [Writing Music with Generative Tools](https://k-devices.com/2022/07/writing-music-with-generative-tools/)
 
 - Video Processing
 	- [Lumalabs](https://lumalabs.ai/)
 	- [Runway](https://runwayml.com/)
-
-- Forums
-	- [Reddit/r/gpt3](https://www.reddit.com/r/gpt3/)
-	- [Reddit/r/artificial](https://www.reddit.com/r/artificial/)
 
  
