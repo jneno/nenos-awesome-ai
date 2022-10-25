@@ -3,7 +3,9 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 
 - Articles
 	- [Do As I Can, Not As I Say](https://say-can.github.io/)
+	- [Generative AI Models Explained](https://www.altexsoft.com/blog/generative-ai/)
 	- [Text is the Universal Interface](https://scale.com/blog/text-universal-interface)
+	- [Why generative AI will take over the world of art, and will render copyright irrelevant](https://walledculture.org/why-generative-ai-will-take-over-the-world-of-art-and-will-render-copyright-irrelevant/)
 
 - Blogs about AI
 	- [Ben's Bites](https://bensbites.beehiiv.com/)
@@ -46,6 +48,8 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
 	- [Out of One, Many: Using Language Models to Simulate Human Samples](https://arxiv.org/abs/2209.06899)
 	- [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
+	- [SELF-PROGRAMMING ARTIFICIAL INTELLIGENCE USING CODE-GENERATING LANGUAGE MODELS](https://openreview.net/forum?id=SKat5ZX5RET)
+	- [STEEX: Steering Counterfactual Explanations with Semantics](https://arxiv.org/abs/2111.09094)
 	- [Using Large Language Models to Simulate Multiple Humans](https://arxiv.org/abs/2208.10264)
 
 - Sound Processing
