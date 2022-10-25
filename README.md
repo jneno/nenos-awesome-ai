@@ -2,6 +2,8 @@
 nenos-awesome-ai - A curated list of AI resources with special focus on Generative AI
 
 - Articles
+	- [Do As I Can, Not As I Say](https://say-can.github.io/)
+	- [Text is the Universal Interface](https://scale.com/blog/text-universal-interface)
 
 - Blogs about AI
 	- [Ben's Bites](https://bensbites.beehiiv.com/)
@@ -10,7 +12,9 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [the decoder](https://the-decoder.com/)
 
 - Books
-	- [Explorting GPT3](https://www.oreilly.com/library/view/exploring-gpt-3/9781800563193/)
+	- [Exploring GPT-3: An unofficial first look at the general-purpose language processing API from OpenAI](https://smile.amazon.com/Exploring-GPT-3-unofficial-general-purpose-processing/dp/1800563191/)
+	- [Exploring GPT3](https://www.oreilly.com/library/view/exploring-gpt-3/9781800563193/)
+	- [Transformers for Natural Language Processing](https://smile.amazon.com/Transformers-Natural-Language-Processing-architectures/dp/1803247339/)
 
 - Consumer Products that wrap AI library
 	- [CoPilot](https://github.com/features/copilot)
@@ -18,6 +22,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Copysmith](https://www.copysmith.ai)
 	- [Eliphas](https://elephas.app/)
 	- [Jasper](https://www.jasper.ai)
+	- [mem](https://get.mem.ai/)
 	- [Writesonic](https://writesonic.com)
 
 - Image Processing
