@@ -54,6 +54,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Lex Fridman Podcast](https://lexfridman.com/podcast/)
 
 - Research Papers
+	- [Ask Me Anything: A simple strategy for prompting language models](https://arxiv.org/abs/2210.02441)
 	- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 	- [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
 	- [Language Models are Few Shot Learners](https://arxiv.org/abs/2005.14165)
