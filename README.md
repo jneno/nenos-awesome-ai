@@ -51,6 +51,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Designer](https://designer.microsoft.com/)
 	- [MidJourney](https://www.midjourney.com/home/)
 	- [Parti](https://parti.research.google/)
+	- [Prompt Hero](https://prompthero.com/)
 	- [Stability AI Stable Diffusion SDK](https://github.com/Stability-AI/stability-sdk)
 	- [Stability AI DreamStudio](https://beta.dreamstudio.ai/))
 
