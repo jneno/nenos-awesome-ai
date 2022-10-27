@@ -67,6 +67,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 - Research Papers
 	- [Ask Me Anything: A simple strategy for prompting language models](https://arxiv.org/abs/2210.02441)
 	- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+	- [Full-band General Audio Synthesis With Score-Based Diffusion](https://arxiv.org/abs/2210.14661)
 	- [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
 	- [Language Models are Few Shot Learners](https://arxiv.org/abs/2005.14165)
 	- [Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
@@ -80,6 +81,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Who is GPT-3? An Exploration of Personality, Values and Demographics](https://arxiv.org/abs/2209.14338)
 
 - Sound Processing
+	- [Full-band General Audio Synthesis With Score-Based Diffusion](https://diffusionaudiosynthesis.github.io/)
 	- [Jukebox, OpenAI](https://openai.com/blog/jukebox/)
 	- [Whisper, OpenAI](https://openai.com/blog/whisper/)
 	- [Writing Music with Generative Tools](https://k-devices.com/2022/07/writing-music-with-generative-tools/)
