@@ -77,6 +77,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [State-of-the-art generalisation research in NLP: a taxonomy and review](https://arxiv.org/abs/2210.03050)
 	- [Understanding HTML with Large Language Models](https://openreview.net/pdf?id=GVMwL15UrZO)
 	- [Using Large Language Models to Simulate Multiple Humans](https://arxiv.org/abs/2208.10264)
+	- [Who is GPT-3? An Exploration of Personality, Values and Demographics](https://arxiv.org/abs/2209.14338)
 
 - Sound Processing
 	- [Jukebox, OpenAI](https://openai.com/blog/jukebox/)
