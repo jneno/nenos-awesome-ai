@@ -95,5 +95,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Lumalabs](https://lumalabs.ai/)
 	- [Meta AI](https://ai.facebook.com/)
 	- [Runway](https://runwayml.com/)
+	- [Two Minute Papers: Google’s Video AI: Outrageously Good!](https://www.youtube.com/watch?v=YxmAQiiHOkA&t=455s)
+	
 
  
