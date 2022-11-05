@@ -40,6 +40,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Eliphas](https://elephas.app/)
 	- [Jasper](https://www.jasper.ai)
 	- [mem](https://get.mem.ai/)
+	- [picsart](https://picsart.com/create)
 	- [SourceAI](https://sourceai.dev/)
 	- [Writesonic](https://writesonic.com)
 
