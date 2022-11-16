@@ -38,7 +38,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Copy.ai](https://www.copy.ai)
 	- [Copysmith](https://www.copysmith.ai)
 	- [Eliphas](https://elephas.app/)
-  	- [Futurepedia (Directory)](https://www.futurepedia.io/)
+  	- [Futurepedia (directory)](https://www.futurepedia.io/)
 	- [Jasper](https://www.jasper.ai)
 	- [mem](https://get.mem.ai/)
 	- [picsart](https://picsart.com/create)
