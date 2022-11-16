@@ -38,6 +38,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Copy.ai](https://www.copy.ai)
 	- [Copysmith](https://www.copysmith.ai)
 	- [Eliphas](https://elephas.app/)
+  	- [Futurepedia (Directory)](https://www.futurepedia.io/)
 	- [Jasper](https://www.jasper.ai)
 	- [mem](https://get.mem.ai/)
 	- [picsart](https://picsart.com/create)
@@ -60,7 +61,6 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 
 - Natural Language Processing(NLP)
   - Tools and APIs
-  	- [Futurepedia (Directory)](https://www.futurepedia.io/)
   	- [Gmail GPT-3 Plugin](https://github.com/danimelchor/gpt3-email)
 	- [GPT-3 API, OpenAI](https://openai.com/api/)
 	- [summarize.tech](https://www.summarize.tech/)
