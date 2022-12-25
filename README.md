@@ -33,10 +33,11 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Exploring GPT3](https://www.oreilly.com/library/view/exploring-gpt-3/9781800563193/)
 	- [Transformers for Natural Language Processing](https://smile.amazon.com/Transformers-Natural-Language-Processing-architectures/dp/1803247339/)
 
-- Consumer Products that wrap AI library
+- Products and proof of concepts that are powered by generative AI
 	- [CoPilot](https://github.com/features/copilot)
 	- [Copy.ai](https://www.copy.ai)
 	- [Copysmith](https://www.copysmith.ai)
+	- [DramaTron](https://deepmind.github.io/dramatron/)
 	- [Eliphas](https://elephas.app/)
   	- [Futurepedia (directory)](https://www.futurepedia.io/)
 	- [Jasper](https://www.jasper.ai)
@@ -61,6 +62,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 
 - Natural Language Processing(NLP)
   - Tools and APIs
+  	- [ChatGpt](https://openai.com/blog/chatgpt/)
   	- [Gmail GPT-3 Plugin](https://github.com/danimelchor/gpt3-email)
 	- [GPT-3 API, OpenAI](https://openai.com/api/)
 	- [summarize.tech](https://www.summarize.tech/)
@@ -71,10 +73,12 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 - Research Papers
 	- [Ask Me Anything: A simple strategy for prompting language models](https://arxiv.org/abs/2210.02441)
 	- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+	- [Co-Writing Screenplays and Theatre Scripts with Language Models: An Evaluation by Industry Professionals](https://arxiv.org/abs/2209.14958)
 	- [Full-band General Audio Synthesis With Score-Based Diffusion](https://arxiv.org/abs/2210.14661)
 	- [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
 	- [Language Models are Few Shot Learners](https://arxiv.org/abs/2005.14165)
 	- [Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
+	- [MemPrompt: Memory-assisted Prompt Editing with User Feedback](https://arxiv.org/abs/2201.06009)
 	- [Out of One, Many: Using Language Models to Simulate Human Samples](https://arxiv.org/abs/2209.06899)
 	- [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
 	- [SELF-PROGRAMMING ARTIFICIAL INTELLIGENCE USING CODE-GENERATING LANGUAGE MODELS](https://openreview.net/forum?id=SKat5ZX5RET)
