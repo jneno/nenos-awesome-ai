@@ -79,6 +79,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Language Models are Few Shot Learners](https://arxiv.org/abs/2005.14165)
 	- [Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
 	- [MemPrompt: Memory-assisted Prompt Editing with User Feedback](https://arxiv.org/abs/2201.06009)
+	- [Muse: Text-To-Image Generation via Masked Generative Transformers](https://arxiv.org/abs/2301.00704)
 	- [Out of One, Many: Using Language Models to Simulate Human Samples](https://arxiv.org/abs/2209.06899)
 	- [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
 	- [SELF-PROGRAMMING ARTIFICIAL INTELLIGENCE USING CODE-GENERATING LANGUAGE MODELS](https://openreview.net/forum?id=SKat5ZX5RET)
