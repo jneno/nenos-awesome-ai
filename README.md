@@ -3,6 +3,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 
 - Articles
 	- [AI, Artists, and the Future of Images](https://c0nverse.substack.com/p/ai-artists-and-the-future-of-images)
+	- [Can the AI driving ChatGPT help to detect early signs of Alzheimer's disease?](https://www.sciencedaily.com/releases/2022/12/221222162415.htm)
 	- [Deep generative models could offer the most promising developments in AI](https://venturebeat.com/datadecisionmakers/deep-generative-models-could-offer-the-most-promising-developments-in-ai/)
 	- [Do As I Can, Not As I Say](https://say-can.github.io/)
 	- [Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs](https://arxiv.org/abs/2210.12283)
