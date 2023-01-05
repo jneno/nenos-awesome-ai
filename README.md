@@ -66,6 +66,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
   	- [ChatGpt](https://openai.com/blog/chatgpt/)
   	- [Gmail GPT-3 Plugin](https://github.com/danimelchor/gpt3-email)
 	- [GPT-3 API, OpenAI](https://openai.com/api/)
+	- [PETALS: Collaborative Inference and Fine-tuning of Large Models](https://arxiv.org/pdf/2209.01188.pdf)
 	- [summarize.tech](https://www.summarize.tech/)
 	
 - Podcasts
