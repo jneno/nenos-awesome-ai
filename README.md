@@ -97,6 +97,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Jukebox, OpenAI](https://openai.com/blog/jukebox/)
 	- [Whisper, OpenAI](https://openai.com/blog/whisper/)
 	- [Writing Music with Generative Tools](https://k-devices.com/2022/07/writing-music-with-generative-tools/)
+	- [VALL-E Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://valle-demo.github.io/)
 
 - Twitter accounts that Tweet about AI
 	- [@elronbandel](https://twitter.com/ElronBandel)
