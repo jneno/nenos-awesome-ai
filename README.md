@@ -76,6 +76,7 @@ nenos-awesome-ai - A curated list of AI resources with special focus on Generati
 	- [Ask Me Anything: A simple strategy for prompting language models](https://arxiv.org/abs/2210.02441)
 	- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 	- [Can large language models reason about medical questions?](https://www.marktechpost.com/2023/01/02/exploring-the-ability-of-large-language-models-llms-to-reason-about-medical-questions-insights-from-an-artificial-intelligence-ai-study-in-denmark/)
+	- [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
 	- [Co-Writing Screenplays and Theatre Scripts with Language Models: An Evaluation by Industry Professionals](https://arxiv.org/abs/2209.14958)
 	- [Full-band General Audio Synthesis With Score-Based Diffusion](https://arxiv.org/abs/2210.14661)
 	- [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
